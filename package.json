@@ -1,0 +1,22 @@
+{
+  "name": "middleware-cookies-localstorage-auth",
+  "version": "1.0.0",
+  "description": "Nuxt.js ile beraber Auth İşlemleri",
+  "author": "Firdovsi Rustemov",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "cross-env": "^5.2.0",
+    "js-cookie": "^2.2.0",
+    "nuxt": "^2.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
